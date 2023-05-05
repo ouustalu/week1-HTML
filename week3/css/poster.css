@@ -142,7 +142,7 @@ footer ul li {
 @keyframes slide-from-left {
     80% {left: 1rem;}
     100% {left: 0;}
-    }
+}
 
 footer ul li a {
     text-decoration: none;
